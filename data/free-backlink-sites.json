@@ -1,0 +1,1062 @@
+[
+ {
+  "name": "Product Hunt",
+  "domain": "producthunt.com",
+  "start_url": "https://www.producthunt.com/launch",
+  "category": "Launch platforms",
+  "what_you_add": "A product launch page with your link, maker profile and comments",
+  "best_for": "Software, apps, AI tools",
+  "tranco_rank": 4294,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "BetaList",
+  "domain": "betalist.com",
+  "start_url": "https://betalist.com/submit",
+  "category": "Launch platforms",
+  "what_you_add": "A listing for an early-stage startup",
+  "best_for": "Pre-launch startups",
+  "tranco_rank": 144795,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Uneed",
+  "domain": "uneed.best",
+  "start_url": "https://www.uneed.best/submit-a-tool",
+  "category": "Launch platforms",
+  "what_you_add": "A tool listing and daily launch",
+  "best_for": "Software, AI tools",
+  "tranco_rank": 358877,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "DevHunt",
+  "domain": "devhunt.org",
+  "start_url": "https://devhunt.org/",
+  "category": "Launch platforms",
+  "what_you_add": "A weekly launch for developer tools",
+  "best_for": "Developer tools",
+  "tranco_rank": 952702,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Fazier",
+  "domain": "fazier.com",
+  "start_url": "https://fazier.com/submit",
+  "category": "Launch platforms",
+  "what_you_add": "A product launch page",
+  "best_for": "Software, AI tools",
+  "tranco_rank": 201577,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Microlaunch",
+  "domain": "microlaunch.net",
+  "start_url": "https://microlaunch.net/",
+  "category": "Launch platforms",
+  "what_you_add": "A month-long launch with feedback",
+  "best_for": "Indie products",
+  "tranco_rank": null,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "TinyLaunch",
+  "domain": "tinylaunch.com",
+  "start_url": "https://www.tinylaunch.com/",
+  "category": "Launch platforms",
+  "what_you_add": "A weekly launch listing",
+  "best_for": "Indie products",
+  "tranco_rank": null,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Launching Next",
+  "domain": "launchingnext.com",
+  "start_url": "https://www.launchingnext.com/submit/",
+  "category": "Launch platforms",
+  "what_you_add": "A startup listing",
+  "best_for": "New startups",
+  "tranco_rank": 960354,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "SideProjectors",
+  "domain": "sideprojectors.com",
+  "start_url": "https://www.sideprojectors.com/",
+  "category": "Launch platforms",
+  "what_you_add": "A side-project listing (also for selling projects)",
+  "best_for": "Side projects",
+  "tranco_rank": 145238,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "PeerPush",
+  "domain": "peerpush.com",
+  "start_url": "https://peerpush.com/",
+  "category": "Launch platforms",
+  "what_you_add": "A product listing with peer upvotes",
+  "best_for": "Indie products",
+  "tranco_rank": 453340,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Indie Hunt",
+  "domain": "indiehunt.io",
+  "start_url": "https://indiehunt.io/",
+  "category": "Launch platforms",
+  "what_you_add": "A launch listing for indie products",
+  "best_for": "Indie products",
+  "tranco_rank": null,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Toolfame",
+  "domain": "toolfame.com",
+  "start_url": "https://toolfame.com/",
+  "category": "Launch platforms",
+  "what_you_add": "A tool listing",
+  "best_for": "Software, AI tools",
+  "tranco_rank": 713275,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Owwly",
+  "domain": "owwly.com",
+  "start_url": "https://owwly.com/",
+  "category": "Launch platforms",
+  "what_you_add": "A product listing",
+  "best_for": "Digital products",
+  "tranco_rank": null,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "10words",
+  "domain": "10words.io",
+  "start_url": "https://10words.io/",
+  "category": "Launch platforms",
+  "what_you_add": "A ten-word product description and link",
+  "best_for": "Startups",
+  "tranco_rank": null,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Startup Buffer",
+  "domain": "startupbuffer.com",
+  "start_url": "https://startupbuffer.com/",
+  "category": "Launch platforms",
+  "what_you_add": "A startup listing",
+  "best_for": "Startups",
+  "tranco_rank": 616561,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "G2",
+  "domain": "g2.com",
+  "start_url": "https://www.g2.com/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A free vendor profile and customer reviews",
+  "best_for": "B2B software",
+  "tranco_rank": 3995,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Capterra",
+  "domain": "capterra.com",
+  "start_url": "https://www.capterra.com/vendors/sign-up/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A free software listing with reviews",
+  "best_for": "B2B software",
+  "tranco_rank": 5949,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "TrustRadius",
+  "domain": "trustradius.com",
+  "start_url": "https://www.trustradius.com/vendors",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A vendor profile with verified reviews",
+  "best_for": "B2B software",
+  "tranco_rank": 25839,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "GoodFirms",
+  "domain": "goodfirms.co",
+  "start_url": "https://www.goodfirms.co/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A software or agency profile",
+  "best_for": "Software, agencies",
+  "tranco_rank": 25539,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "SaaSHub",
+  "domain": "saashub.com",
+  "start_url": "https://www.saashub.com/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A software listing with alternatives",
+  "best_for": "Software",
+  "tranco_rank": 23995,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "AlternativeTo",
+  "domain": "alternativeto.net",
+  "start_url": "https://alternativeto.net/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "An app listing shown as an alternative to known apps",
+  "best_for": "Software, apps",
+  "tranco_rank": 16110,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "StackShare",
+  "domain": "stackshare.io",
+  "start_url": "https://stackshare.io/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A tool profile and your company's tech stack",
+  "best_for": "Developer and SaaS tools",
+  "tranco_rank": 46708,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "SourceForge",
+  "domain": "sourceforge.net",
+  "start_url": "https://sourceforge.net/software/vendors/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A business software listing or open-source project",
+  "best_for": "Software, open source",
+  "tranco_rank": 241,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Crozdesk",
+  "domain": "crozdesk.com",
+  "start_url": "https://crozdesk.com/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A software listing",
+  "best_for": "B2B software",
+  "tranco_rank": 85917,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Tekpon",
+  "domain": "tekpon.com",
+  "start_url": "https://tekpon.com/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A software listing with reviews",
+  "best_for": "B2B software",
+  "tranco_rank": 670526,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Serchen",
+  "domain": "serchen.com",
+  "start_url": "https://www.serchen.com/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A cloud service listing",
+  "best_for": "Cloud and SaaS",
+  "tranco_rank": 167620,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "SaaSworthy",
+  "domain": "saasworthy.com",
+  "start_url": "https://www.saasworthy.com/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A SaaS listing with comparisons",
+  "best_for": "SaaS",
+  "tranco_rank": 134050,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Clutch",
+  "domain": "clutch.co",
+  "start_url": "https://clutch.co/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A service provider profile with verified client reviews",
+  "best_for": "Agencies, consultants",
+  "tranco_rank": 7288,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "OpenAlternative",
+  "domain": "openalternative.co",
+  "start_url": "https://openalternative.co/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A listing for open-source alternatives",
+  "best_for": "Open-source software",
+  "tranco_rank": 364284,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "No Code List",
+  "domain": "nocodelist.co",
+  "start_url": "https://nocodelist.co/",
+  "category": "Software and SaaS directories",
+  "what_you_add": "A no-code tool listing",
+  "best_for": "No-code tools",
+  "tranco_rank": null,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "There's An AI For That",
+  "domain": "theresanaiforthat.com",
+  "start_url": "https://theresanaiforthat.com/",
+  "category": "AI tool directories",
+  "what_you_add": "An AI tool listing",
+  "best_for": "AI tools",
+  "tranco_rank": 28048,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Futurepedia",
+  "domain": "futurepedia.io",
+  "start_url": "https://www.futurepedia.io/",
+  "category": "AI tool directories",
+  "what_you_add": "An AI tool listing",
+  "best_for": "AI tools",
+  "tranco_rank": 131995,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Future Tools",
+  "domain": "futuretools.io",
+  "start_url": "https://www.futuretools.io/",
+  "category": "AI tool directories",
+  "what_you_add": "An AI tool listing",
+  "best_for": "AI tools",
+  "tranco_rank": 188536,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Toolify",
+  "domain": "toolify.ai",
+  "start_url": "https://www.toolify.ai/",
+  "category": "AI tool directories",
+  "what_you_add": "An AI tool listing",
+  "best_for": "AI tools",
+  "tranco_rank": 49532,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "OpenTools",
+  "domain": "opentools.ai",
+  "start_url": "https://opentools.ai/",
+  "category": "AI tool directories",
+  "what_you_add": "An AI tool listing",
+  "best_for": "AI tools",
+  "tranco_rank": 188302,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "AIxploria",
+  "domain": "aixploria.com",
+  "start_url": "https://www.aixploria.com/en/",
+  "category": "AI tool directories",
+  "what_you_add": "An AI tool listing",
+  "best_for": "AI tools",
+  "tranco_rank": 309449,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "TopAI.tools",
+  "domain": "topai.tools",
+  "start_url": "https://topai.tools/",
+  "category": "AI tool directories",
+  "what_you_add": "An AI tool listing",
+  "best_for": "AI tools",
+  "tranco_rank": 206443,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "AI Agent Store",
+  "domain": "aiagentstore.ai",
+  "start_url": "https://aiagentstore.ai/",
+  "category": "AI tool directories",
+  "what_you_add": "An AI agent listing",
+  "best_for": "AI agents",
+  "tranco_rank": 564222,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "That AI Collection",
+  "domain": "thataicollection.com",
+  "start_url": "https://www.thataicollection.com/",
+  "category": "AI tool directories",
+  "what_you_add": "An AI tool listing",
+  "best_for": "AI tools",
+  "tranco_rank": null,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "SaaS AI Tools",
+  "domain": "saasaitools.com",
+  "start_url": "https://saasaitools.com/",
+  "category": "AI tool directories",
+  "what_you_add": "An AI and SaaS tool listing",
+  "best_for": "AI tools",
+  "tranco_rank": null,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Google Business Profile",
+  "domain": "business.google.com",
+  "start_url": "https://business.google.com/",
+  "category": "Business listings and citations",
+  "what_you_add": "Your business on Google Search and Maps, with a website link",
+  "best_for": "Local businesses",
+  "tranco_rank": 1,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Bing Places",
+  "domain": "bingplaces.com",
+  "start_url": "https://www.bingplaces.com/",
+  "category": "Business listings and citations",
+  "what_you_add": "Your business on Bing and Bing Maps",
+  "best_for": "Local businesses",
+  "tranco_rank": 115082,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Apple Business Connect",
+  "domain": "businessconnect.apple.com",
+  "start_url": "https://businessconnect.apple.com/",
+  "category": "Business listings and citations",
+  "what_you_add": "Your business on Apple Maps and Siri",
+  "best_for": "Local businesses",
+  "tranco_rank": 10,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Yelp for Business",
+  "domain": "biz.yelp.com",
+  "start_url": "https://biz.yelp.com/",
+  "category": "Business listings and citations",
+  "what_you_add": "A business page with reviews",
+  "best_for": "Local businesses",
+  "tranco_rank": 711,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Facebook Page",
+  "domain": "facebook.com",
+  "start_url": "https://www.facebook.com/pages/create",
+  "category": "Business listings and citations",
+  "what_you_add": "A business page with your website and details",
+  "best_for": "Any business",
+  "tranco_rank": 3,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Foursquare",
+  "domain": "foursquare.com",
+  "start_url": "https://foursquare.com/",
+  "category": "Business listings and citations",
+  "what_you_add": "A place listing that feeds many apps",
+  "best_for": "Local businesses",
+  "tranco_rank": 3496,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Trustpilot",
+  "domain": "trustpilot.com",
+  "start_url": "https://business.trustpilot.com/",
+  "category": "Business listings and citations",
+  "what_you_add": "A free business profile with reviews",
+  "best_for": "Online and local businesses",
+  "tranco_rank": 352,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Nextdoor",
+  "domain": "nextdoor.com",
+  "start_url": "https://business.nextdoor.com/",
+  "category": "Business listings and citations",
+  "what_you_add": "A free business page for your neighbourhood",
+  "best_for": "Local businesses",
+  "tranco_rank": 2679,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Brownbook",
+  "domain": "brownbook.net",
+  "start_url": "https://www.brownbook.net/",
+  "category": "Business listings and citations",
+  "what_you_add": "A free business directory listing",
+  "best_for": "Local businesses",
+  "tranco_rank": 24479,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Hotfrog",
+  "domain": "hotfrog.com",
+  "start_url": "https://www.hotfrog.com/",
+  "category": "Business listings and citations",
+  "what_you_add": "A free business directory listing",
+  "best_for": "Local businesses",
+  "tranco_rank": 43597,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Manta",
+  "domain": "manta.com",
+  "start_url": "https://www.manta.com/",
+  "category": "Business listings and citations",
+  "what_you_add": "A small-business directory listing",
+  "best_for": "US small businesses",
+  "tranco_rank": 15293,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Crunchbase",
+  "domain": "crunchbase.com",
+  "start_url": "https://www.crunchbase.com/",
+  "category": "Startup databases",
+  "what_you_add": "A company profile with website, founders and funding",
+  "best_for": "Startups, tech companies",
+  "tranco_rank": 3143,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Wellfound",
+  "domain": "wellfound.com",
+  "start_url": "https://wellfound.com/",
+  "category": "Startup databases",
+  "what_you_add": "A startup profile and job listings",
+  "best_for": "Startups hiring",
+  "tranco_rank": 17490,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "F6S",
+  "domain": "f6s.com",
+  "start_url": "https://www.f6s.com/",
+  "category": "Startup databases",
+  "what_you_add": "A startup profile",
+  "best_for": "Startups",
+  "tranco_rank": 19687,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Dealroom",
+  "domain": "dealroom.co",
+  "start_url": "https://dealroom.co/",
+  "category": "Startup databases",
+  "what_you_add": "A company profile in a startup database",
+  "best_for": "Startups, especially in Europe",
+  "tranco_rank": 31207,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Getlatka",
+  "domain": "getlatka.com",
+  "start_url": "https://getlatka.com/",
+  "category": "Startup databases",
+  "what_you_add": "A SaaS company profile with metrics",
+  "best_for": "SaaS companies",
+  "tranco_rank": 126077,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "GitHub",
+  "domain": "github.com",
+  "start_url": "https://github.com/",
+  "category": "Developer and open source",
+  "what_you_add": "A profile, organisation and repositories with your website",
+  "best_for": "Software, open source",
+  "tranco_rank": 31,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "GitLab",
+  "domain": "gitlab.com",
+  "start_url": "https://gitlab.com/",
+  "category": "Developer and open source",
+  "what_you_add": "A profile and projects",
+  "best_for": "Software, open source",
+  "tranco_rank": 364,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "DEV Community",
+  "domain": "dev.to",
+  "start_url": "https://dev.to/",
+  "category": "Developer and open source",
+  "what_you_add": "Technical articles and a profile",
+  "best_for": "Developer audiences",
+  "tranco_rank": 3694,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Hashnode",
+  "domain": "hashnode.com",
+  "start_url": "https://hashnode.com/",
+  "category": "Developer and open source",
+  "what_you_add": "A developer blog on your own subdomain or domain",
+  "best_for": "Developer audiences",
+  "tranco_rank": 20809,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "npm",
+  "domain": "npmjs.com",
+  "start_url": "https://www.npmjs.com/",
+  "category": "Developer and open source",
+  "what_you_add": "A JavaScript package page with homepage link",
+  "best_for": "JavaScript libraries",
+  "tranco_rank": 2085,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "PyPI",
+  "domain": "pypi.org",
+  "start_url": "https://pypi.org/",
+  "category": "Developer and open source",
+  "what_you_add": "A Python package page with project links",
+  "best_for": "Python libraries",
+  "tranco_rank": 2566,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Docker Hub",
+  "domain": "hub.docker.com",
+  "start_url": "https://hub.docker.com/",
+  "category": "Developer and open source",
+  "what_you_add": "A container image page",
+  "best_for": "Developer tools",
+  "tranco_rank": 519,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Hugging Face",
+  "domain": "huggingface.co",
+  "start_url": "https://huggingface.co/",
+  "category": "Developer and open source",
+  "what_you_add": "A profile, models, datasets or Spaces",
+  "best_for": "AI and ML projects",
+  "tranco_rank": 1114,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Stack Overflow",
+  "domain": "stackoverflow.com",
+  "start_url": "https://stackoverflow.com/",
+  "category": "Developer and open source",
+  "what_you_add": "A profile with your website, and helpful answers",
+  "best_for": "Developers",
+  "tranco_rank": 522,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "CodePen",
+  "domain": "codepen.io",
+  "start_url": "https://codepen.io/",
+  "category": "Developer and open source",
+  "what_you_add": "Front-end demos and a profile",
+  "best_for": "Front-end developers",
+  "tranco_rank": 4093,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "LibHunt",
+  "domain": "libhunt.com",
+  "start_url": "https://www.libhunt.com/",
+  "category": "Developer and open source",
+  "what_you_add": "A listing for open-source libraries",
+  "best_for": "Open-source projects",
+  "tranco_rank": 63576,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Chrome Web Store",
+  "domain": "chromewebstore.google.com",
+  "start_url": "https://chromewebstore.google.com/",
+  "category": "Developer and open source",
+  "what_you_add": "A browser extension page with your website",
+  "best_for": "Browser extensions",
+  "tranco_rank": 1,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "WordPress.org Plugins",
+  "domain": "wordpress.org",
+  "start_url": "https://wordpress.org/plugins/developers/",
+  "category": "Developer and open source",
+  "what_you_add": "A plugin page with author and plugin links",
+  "best_for": "WordPress plugins",
+  "tranco_rank": 50,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Public APIs",
+  "domain": "publicapis.dev",
+  "start_url": "https://publicapis.dev/",
+  "category": "Developer and open source",
+  "what_you_add": "A listing for a public API",
+  "best_for": "APIs",
+  "tranco_rank": null,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Medium",
+  "domain": "medium.com",
+  "start_url": "https://medium.com/",
+  "category": "Publishing platforms",
+  "what_you_add": "Articles that link to your site where it helps the reader",
+  "best_for": "Any business with something to teach",
+  "tranco_rank": 196,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Substack",
+  "domain": "substack.com",
+  "start_url": "https://substack.com/",
+  "category": "Publishing platforms",
+  "what_you_add": "A newsletter and its archive",
+  "best_for": "Writers, experts",
+  "tranco_rank": 442,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "LinkedIn Articles",
+  "domain": "linkedin.com",
+  "start_url": "https://www.linkedin.com/",
+  "category": "Publishing platforms",
+  "what_you_add": "Long-form articles and a company page",
+  "best_for": "B2B",
+  "tranco_rank": 19,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Vocal",
+  "domain": "vocal.media",
+  "start_url": "https://vocal.media/",
+  "category": "Publishing platforms",
+  "what_you_add": "Stories in topic communities",
+  "best_for": "Writers",
+  "tranco_rank": 13606,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "HackerNoon",
+  "domain": "hackernoon.com",
+  "start_url": "https://hackernoon.com/",
+  "category": "Publishing platforms",
+  "what_you_add": "Edited technology articles",
+  "best_for": "Tech companies",
+  "tranco_rank": 7084,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "beehiiv",
+  "domain": "beehiiv.com",
+  "start_url": "https://www.beehiiv.com/",
+  "category": "Publishing platforms",
+  "what_you_add": "A newsletter with a public web archive",
+  "best_for": "Newsletters",
+  "tranco_rank": 5844,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Blogger",
+  "domain": "blogger.com",
+  "start_url": "https://www.blogger.com/",
+  "category": "Publishing platforms",
+  "what_you_add": "A free blog",
+  "best_for": "Personal projects",
+  "tranco_rank": 520,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "WordPress.com",
+  "domain": "wordpress.com",
+  "start_url": "https://wordpress.com/",
+  "category": "Publishing platforms",
+  "what_you_add": "A free blog on a wordpress.com address",
+  "best_for": "Personal projects",
+  "tranco_rank": 99,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Reddit",
+  "domain": "reddit.com",
+  "start_url": "https://www.reddit.com/",
+  "category": "Communities and Q&A",
+  "what_you_add": "Helpful answers in communities about your topic",
+  "best_for": "Any niche with an active subreddit",
+  "tranco_rank": 101,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Quora",
+  "domain": "quora.com",
+  "start_url": "https://www.quora.com/",
+  "category": "Communities and Q&A",
+  "what_you_add": "Answers and a profile with your credentials",
+  "best_for": "Experts",
+  "tranco_rank": 489,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Indie Hackers",
+  "domain": "indiehackers.com",
+  "start_url": "https://www.indiehackers.com/",
+  "category": "Communities and Q&A",
+  "what_you_add": "A product page, posts and milestones",
+  "best_for": "Founders",
+  "tranco_rank": 34438,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Hacker News (Show HN)",
+  "domain": "news.ycombinator.com",
+  "start_url": "https://news.ycombinator.com/showhn.html",
+  "category": "Communities and Q&A",
+  "what_you_add": "A Show HN post for something people can try",
+  "best_for": "Tech products",
+  "tranco_rank": 2293,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Stacker News",
+  "domain": "stacker.news",
+  "start_url": "https://stacker.news/",
+  "category": "Communities and Q&A",
+  "what_you_add": "Posts and links in a tech community",
+  "best_for": "Tech, bitcoin",
+  "tranco_rank": 240795,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "WIP",
+  "domain": "wip.co",
+  "start_url": "https://wip.co/",
+  "category": "Communities and Q&A",
+  "what_you_add": "A maker profile and product pages",
+  "best_for": "Makers",
+  "tranco_rank": 583308,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "About.me",
+  "domain": "about.me",
+  "start_url": "https://about.me/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "A one-page personal profile",
+  "best_for": "Founders, freelancers",
+  "tranco_rank": 3146,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Gravatar",
+  "domain": "gravatar.com",
+  "start_url": "https://gravatar.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "A public profile used across many sites",
+  "best_for": "Anyone who comments or writes online",
+  "tranco_rank": 156,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Behance",
+  "domain": "behance.net",
+  "start_url": "https://www.behance.net/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "A portfolio of projects",
+  "best_for": "Designers, agencies",
+  "tranco_rank": 518,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Dribbble",
+  "domain": "dribbble.com",
+  "start_url": "https://dribbble.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "A design portfolio",
+  "best_for": "Designers",
+  "tranco_rank": 1319,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "YouTube",
+  "domain": "youtube.com",
+  "start_url": "https://www.youtube.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "Channel links and video descriptions",
+  "best_for": "Any business with video",
+  "tranco_rank": 11,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Pinterest",
+  "domain": "pinterest.com",
+  "start_url": "https://business.pinterest.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "Pins that link to your pages",
+  "best_for": "Visual products, recipes, home, fashion",
+  "tranco_rank": 52,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "X",
+  "domain": "x.com",
+  "start_url": "https://x.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "A profile with your website",
+  "best_for": "Any business",
+  "tranco_rank": 48,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Flickr",
+  "domain": "flickr.com",
+  "start_url": "https://www.flickr.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "Photos and a profile",
+  "best_for": "Photographers, travel",
+  "tranco_rank": 182,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Muck Rack",
+  "domain": "muckrack.com",
+  "start_url": "https://muckrack.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "A portfolio of your published articles",
+  "best_for": "Writers, journalists",
+  "tranco_rank": 10773,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Peerlist",
+  "domain": "peerlist.io",
+  "start_url": "https://peerlist.io/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "A professional profile with projects",
+  "best_for": "Developers, designers",
+  "tranco_rank": 202610,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Contra",
+  "domain": "contra.com",
+  "start_url": "https://contra.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "A freelance portfolio",
+  "best_for": "Freelancers",
+  "tranco_rank": 44497,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Ko-fi",
+  "domain": "ko-fi.com",
+  "start_url": "https://ko-fi.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "A creator page",
+  "best_for": "Creators",
+  "tranco_rank": 2678,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Gumroad",
+  "domain": "gumroad.com",
+  "start_url": "https://gumroad.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "A creator storefront and profile",
+  "best_for": "Creators selling digital products",
+  "tranco_rank": 2873,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Issuu",
+  "domain": "issuu.com",
+  "start_url": "https://issuu.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "Published guides, catalogues and reports",
+  "best_for": "Publishers, B2B",
+  "tranco_rank": 381,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "SlideShare",
+  "domain": "slideshare.net",
+  "start_url": "https://www.slideshare.net/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "Presentations with links",
+  "best_for": "B2B, speakers",
+  "tranco_rank": 546,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Speaker Deck",
+  "domain": "speakerdeck.com",
+  "start_url": "https://speakerdeck.com/",
+  "category": "Profiles, portfolios and documents",
+  "what_you_add": "Slides from your talks",
+  "best_for": "Speakers, developers",
+  "tranco_rank": 8094,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Qwoted",
+  "domain": "qwoted.com",
+  "start_url": "https://www.qwoted.com/",
+  "category": "Expert quotes and interviews",
+  "what_you_add": "Expert answers to journalists' requests",
+  "best_for": "Experts, founders",
+  "tranco_rank": 177356,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Featured",
+  "domain": "featured.com",
+  "start_url": "https://featured.com/",
+  "category": "Expert quotes and interviews",
+  "what_you_add": "Expert answers published in articles",
+  "best_for": "Experts, founders",
+  "tranco_rank": 401009,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Help a B2B Writer",
+  "domain": "helpab2bwriter.com",
+  "start_url": "https://helpab2bwriter.com/",
+  "category": "Expert quotes and interviews",
+  "what_you_add": "Expert quotes for B2B articles",
+  "best_for": "B2B experts",
+  "tranco_rank": null,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Starter Story",
+  "domain": "starterstory.com",
+  "start_url": "https://www.starterstory.com/",
+  "category": "Expert quotes and interviews",
+  "what_you_add": "A founder interview about how you built the business",
+  "best_for": "Founders with real numbers",
+  "tranco_rank": 120498,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Failory",
+  "domain": "failory.com",
+  "start_url": "https://www.failory.com/",
+  "category": "Expert quotes and interviews",
+  "what_you_add": "A founder interview",
+  "best_for": "Founders",
+  "tranco_rank": 151571,
+  "checked": "2026-10-19"
+ },
+ {
+  "name": "Indie Hackers Interviews",
+  "domain": "indiehackers.com",
+  "start_url": "https://www.indiehackers.com/",
+  "category": "Expert quotes and interviews",
+  "what_you_add": "A founder interview or milestone story",
+  "best_for": "Founders",
+  "tranco_rank": 34438,
+  "checked": "2026-10-19"
+ }
+]
