@@ -86,7 +86,7 @@ Run `cmoowls-seo --help` for the list of tools.
 
 **These are unedited results from running the tools on our own site, cmoowls.com, in October 2026.**
 
-The llms.txt validator found a real issue we hadn't noticed: our file is served through a redirect from the non-www address.
+The llms.txt validator found a real issue we hadn't noticed: our file was served through a redirect from the non-www address. (We've since changed the server to answer `cmoowls.com/llms.txt` directly, and it now passes.)
 
 ```text
 $ cmoowls-seo llms-validate cmoowls.com
