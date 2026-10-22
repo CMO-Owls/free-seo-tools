@@ -18,6 +18,7 @@ cmoowls-seo ai-visibility example.com
 ## Contents
 
 - [The 23 tools](#the-23-tools)
+- [Standalone tools](#standalone-tools)
 - [Install and quick start](#install-and-quick-start)
 - [Real examples](#real-examples)
 - [Use it as a Python library](#use-it-as-a-python-library)
@@ -60,6 +61,18 @@ cmoowls-seo ai-visibility example.com
 | UTM Builder | Clean campaign links for Google Analytics 4 | Browser | [Tool](https://www.cmoowls.com/tools/utm-builder/) |
 | Social Media Calendar Template | A month of posts, spread evenly, for Sheets or Excel | Browser | [Tool](https://www.cmoowls.com/tools/social-media-calendar-template/) · [Content calendar guide](https://www.cmoowls.com/blog/how-to-create-a-content-calendar/) |
 | Free Backlink Sites | 100+ checked places to list a business | Browser + [dataset](data/) | [Tool](https://www.cmoowls.com/tools/free-backlink-sites/) |
+
+## Standalone tools
+
+**Five of the tools also have their own repositories, with features this collection doesn't have:**
+
+| Repo | Extra features |
+|---|---|
+| [llms-txt-validator](https://github.com/CMO-Owls/llms-txt-validator) | Validate a local llms.txt before deploying; GitHub Action that fails the build on errors |
+| [ai-crawler-access-test](https://github.com/CMO-Owls/ai-crawler-access-test) | Choose which crawler types fail the check; daily monitor that opens an issue when an AI search crawler gets blocked |
+| [xml-sitemap-generator](https://github.com/CMO-Owls/xml-sitemap-generator) | Compare mode: pages missing from your sitemap and sitemap entries the crawl can't reach |
+| [keyword-density-checker](https://github.com/CMO-Owls/keyword-density-checker) | Check Markdown and HTML drafts before publishing; compare your page's phrases with a competitor's |
+| [image-compressor](https://github.com/CMO-Owls/image-compressor) | One self-contained HTML file you can host anywhere or use offline |
 
 ## Install and quick start
 
