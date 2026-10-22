@@ -2366,6 +2366,7 @@ async def check_images(raw_url: str) -> dict:
 
 SITEMAP_BYTES = 10 * 1024 * 1024
 SITEMAP_CHILDREN = 5
+SITEMAP_EXTRA = 4            # 2026-10-22: also read up to 4 more sitemaps listed in robots.txt (was: only the first one found)
 SITEMAP_SAMPLE = 20
 SITEMAP_BUDGET_S = 30.0
 _W3C_DATE = re.compile(r"^\d{4}(-\d{2}(-\d{2}(T\d{2}:\d{2}(:\d{2}(\.\d+)?)?(Z|[+-]\d{2}:\d{2}))?)?)?$")
@@ -2454,7 +2455,43 @@ async def check_sitemap(raw_url: str) -> dict:
                 files.append({"url": child["loc"], "kind": cp["kind"], "count": len(cp["entries"]), "too_big": cbig, "ns": cp["ns"], "media": cp["media"]})
                 urls.extend(cp["entries"])
         else:
-            urls = top["entries"]
+            urls = list(top["entries"])
+
+        # 2026-10-22 (user: "fix it"): a site can list several sitemaps in robots.txt (cmoowls.com lists the main one and a
+        # careers/jobs one); read the others too, unless the visitor typed one specific sitemap address.
+        extras = [s for s in in_robots if source != "given" and not _same_url(s, sm_url)][:SITEMAP_EXTRA]
+        for ex in extras:
+            if time.monotonic() > deadline:
+                break
+            try:
+                er = await safe_get(client, ex, SITEMAP_BYTES)
+            except FetchBlocked as exc:
+                files.append({"url": ex, "kind": None, "count": 0, "error": str(exc)})
+                continue
+            if er.status != 200:
+                files.append({"url": ex, "kind": None, "count": 0, "error": f"HTTP {er.status or er.error}"})
+                continue
+            et, ebig = _sitemap_text(er)
+            ep = _parse_sitemap(et)
+            files.append({"url": ex, "kind": ep["kind"], "count": len(ep["entries"]), "too_big": ebig, "ns": ep["ns"], "media": ep.get("media")})
+            if ep["kind"] == "index":
+                for child in ep["entries"][:SITEMAP_CHILDREN]:
+                    if time.monotonic() > deadline or not child["loc"]:
+                        break
+                    try:
+                        cr = await safe_get(client, urljoin(ex, child["loc"]), SITEMAP_BYTES)
+                    except FetchBlocked as exc:
+                        files.append({"url": child["loc"], "kind": None, "count": 0, "error": str(exc)})
+                        continue
+                    if cr.status != 200:
+                        files.append({"url": child["loc"], "kind": None, "count": 0, "error": f"HTTP {cr.status or cr.error}"})
+                        continue
+                    ct, cbig = _sitemap_text(cr)
+                    cp = _parse_sitemap(ct)
+                    files.append({"url": child["loc"], "kind": cp["kind"], "count": len(cp["entries"]), "too_big": cbig, "ns": cp["ns"], "media": cp["media"]})
+                    urls.extend(cp["entries"])
+            else:
+                urls = urls + ep["entries"]
 
         # spot-check pages spread across the list
         locs = [u["loc"] for u in urls if u["loc"].startswith(("http://", "https://"))]
@@ -2498,12 +2535,18 @@ async def check_sitemap(raw_url: str) -> dict:
         add("robots", "warn", "robots.txt doesn't list your sitemap", f"Add the line \"Sitemap: {sm_url}\" to robots.txt so every search engine can find it.")
     if not top["ns"]:
         add("format", "warn", "Missing the sitemap namespace", "The root tag should declare xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\".")
+    listed_read = [f for f in files if f["url"] == sm_url or f["url"] in extras]
+    if len(in_robots) > 1 and source != "given":
+        more = len(in_robots) - 1 - len(extras)
+        add("multi", "pass", f"{len(in_robots)} sitemaps listed in robots.txt",
+            f"We read {len(listed_read)} of them" + (f" (the first {1 + len(extras)})" if more > 0 else "") + ": "
+            + ", ".join(f"{f['url']} ({f['count']:,} {'sitemaps' if f.get('kind') == 'index' else 'addresses'})" for f in listed_read if not f.get("error")) + ".")
     if top["kind"] == "index":
         add("index", "pass", f"Sitemap index with {len(top['entries'])} sitemap file{'s' if len(top['entries']) != 1 else ''}",
             f"We read {len(files) - 1} of them" + (f" (the first {SITEMAP_CHILDREN})" if len(top["entries"]) > SITEMAP_CHILDREN else "") + ".")
     bad_files = [f for f in files if f.get("error")]
     if bad_files:
-        add("children", "fail", f"{len(bad_files)} sitemap file{'s' if len(bad_files) != 1 else ''} in your index don't load", "; ".join(f"{f['url']} ({f['error']})" for f in bad_files[:3]))
+        add("children", "fail", f"{len(bad_files)} sitemap file{'s' if len(bad_files) != 1 else ''} {'doesn' if len(bad_files) == 1 else 'don'}'t load", "; ".join(f"{f['url']} ({f['error']})" for f in bad_files[:3]))
     over = [f for f in files if f["count"] > 50000 or f.get("too_big")]
     if over:
         add("limits", "fail", "A sitemap file is over the limit", "Each sitemap file can list at most 50,000 URLs and be at most 50 MB uncompressed. Split it and use a sitemap index.")
