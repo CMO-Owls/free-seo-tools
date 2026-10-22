@@ -63,7 +63,7 @@ cmoowls-seo ai-visibility example.com
 
 ## Install and quick start
 
-**You need Python 3.9 or newer.** The package has two dependencies, [httpx](https://www.python-httpx.org/) for requests and Pillow for reading image sizes.
+**You need Python 3.10 or newer.** The package has two dependencies, [httpx](https://www.python-httpx.org/) for requests and Pillow for reading image sizes.
 
 1. Install from GitHub:
    ```bash

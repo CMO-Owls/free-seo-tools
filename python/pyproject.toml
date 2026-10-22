@@ -10,7 +10,7 @@ readme = "README.md"
 license = "MIT"
 license-files = ["LICENSE"]
 authors = [{ name = "CMO Owls", email = "hello@cmoowls.com" }]
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 dependencies = ["httpx>=0.25", "Pillow>=10"]
 keywords = ["seo", "ai visibility", "llms.txt", "robots.txt", "sitemap", "schema", "broken links", "geo", "aeo"]
 classifiers = [
